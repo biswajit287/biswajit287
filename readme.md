@@ -27,4 +27,4 @@ I'm always keen to learn new technologies and stay up-to-date with the ever-evol
 
 When I'm not coding, you'll find me exploring new technologies, sharing insights with the developer community, or simply enjoying a good cup of coffee. Let's connect and build something amazing together!
 
-- ![](https://komarev.com/ghpvc/?username=biswajit287&color=green)
+![](https://komarev.com/ghpvc/?username=biswajit287&color=green)
