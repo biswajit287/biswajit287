@@ -2,7 +2,7 @@
 
 ## About Me :wave:
 
-I'm a passionate software developer with expertise in Laravel, Flutter, TypeScript, Angular, and Node.js. I also have experience with AWS Serverless for backend development. With a knack for building scalable and user-friendly applications, I bring innovation to life through code. My journey in the world of software development is driven by a deep curiosity to solve complex problems and create seamless digital experiences.
+I'm a software developer who's really into making stuff with Laravel, Flutter, TypeScript, Angular. Plus, I know my way around AWS Serverless for backend stuff. I love building apps that can handle lots of users and are easy to use. I'm all about bringing new ideas to life with my code. I got into this because I love solving tricky problems and making digital stuff that works great.
 
 ## Expertise :rocket:
 - :gear: **Laravel:** Crafting robust backends.
